@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Fideos",
+    "description": "100gr",
+    "price": 10023,
+    "code": "ABC123",
+    "stock": 10,
+    "category": "fideos",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Fideos",
+    "description": "100gr",
+    "price": 2200,
+    "code": "ABC124",
+    "stock": 10,
+    "category": "fideos",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Fideos",
+    "description": "100gr",
+    "price": 26700,
+    "code": "ABC125",
+    "stock": 10,
+    "category": "fideos",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  }
+]
